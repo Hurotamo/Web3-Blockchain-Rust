@@ -3,6 +3,6 @@ fn main() {
     if number % 2 == 0 {
         println!("Even");
     } else {
-        println!("Odd");
+  println!("Odd");
     }
 }
