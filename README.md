@@ -80,13 +80,20 @@ Week 3-4: Deploy a Rust-based Web3 Project
 Implement a dApp with wallet integration (Phantom, Solflare)
 Deploy your project to the Solana network
 Explore additional tools like Wormhole Protocol, Anchor for Solana
+
+
 Blockchain & Web3 Journey
+
+
 Month 1: Blockchain Fundamentals
 Week 1-2: Basic Blockchain Concepts
 
 Learn the fundamentals of blockchain (distributed ledger, consensus algorithms, mining, etc.)
 Study the key differences between Proof of Work and Proof of Stake
 Understand what decentralized finance (DeFi), NFTs, and smart contracts are
+
+
+
 Week 3-4: Ethereum & Solana
 
 Explore Ethereum and how it’s used to build decentralized applications (dApps)
@@ -95,6 +102,8 @@ Learn about gas fees, smart contract limitations, and consensus mechanisms
 
 
 Month 2: Smart Contract Development
+
+
 Week 1-2: Introduction to Solidity and Rust for Smart Contracts
 
 Learn Solidity for Ethereum smart contracts
