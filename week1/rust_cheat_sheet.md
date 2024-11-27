@@ -114,8 +114,8 @@ struct User {
 
 fn main() {
     let user1 = User {
-        username: String::from("example"),
-        email: String::from("example@example.com"),
+        username: String::from("RjayPogi"),
+        email: String::from("rjaysolamo@gmail.com"),
         active: true,
         sign_in_count: 1,
     };
