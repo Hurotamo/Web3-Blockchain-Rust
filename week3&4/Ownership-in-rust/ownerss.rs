@@ -7,3 +7,5 @@ fn main() {
     
     println!("{}", s2); // This works because s2 is now the owner
 }
+///In this example, the ownership of s1 is transferred to s2 when s1 is assigned to s2. After this, 
+///s1 is no longer valid, and trying to access it results in a compile-time error.
