@@ -3,7 +3,7 @@
 ```markdown
 # Rust Syntax Cheat Sheet
 
-Welcome to the **Rust Syntax Cheat Sheet**! This repository is a quick reference for fundamental Rust syntax, designed to help you understand and use Rust effectively. Whether you're a beginner or an experienced Rustacean, this guide is here to assist.
+Welcome to the Rust Syntax Cheat Sheet! This repository is a quick reference for fundamental Rust syntax, designed to help you understand and use Rust effectively. Whether you're a beginner or an experienced Rustacean, this guide is here to assist.
 
 ---
 
